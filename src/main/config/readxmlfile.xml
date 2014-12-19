@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="password">mypassword</entry>
+	<entry key="chinese">中文</entry>
+	<entry key="username">myname</entry>
+</properties>
